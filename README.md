@@ -1,1 +1,1 @@
-# Just-do-it-page
+Just Do It is a simple and interactive task management web application designed to help users stay organized and productive. Built using HTML, CSS, and JavaScript, it features a clean and responsive design for seamless usability across devices. Users can add, edit, and delete tasks efficiently, with real-time updates and smooth animations for an engaging experience. This project demonstrates core front-end development skills and is perfect for showcasing functionality and aesthetics. Explore and manage your tasks effortlessly with Just Do It! 🌟
